@@ -13,7 +13,7 @@ module.exports = {
   output: {
     publicPath: '/',
     path: paths.appBuild,
-    filename: 'bundle.js',
+    filename: 'bundle.[hash].js',
     assetModuleFilename: 'assets/[name].[hash][ext][query]',
   },
   module: {

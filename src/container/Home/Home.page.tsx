@@ -7,7 +7,7 @@ export interface IProps {}
 const Home: FC<IProps> = () => {
   return (
     <section className="bg-white dark:bg-gray-900">
-      <div className="container flex flex-col px-4 pt-20 pb-12 mx-auto">
+      <div className="container flex flex-col items-center px-4 pt-20 pb-12 mx-auto">
         <Image src={MICRO_SERVICE} alt="micro-service" className="w-40 h-40" />
         <h2 className="text-3xl mt-4 font-bold tracking-tight text-gray-600 dark:text-white">
           MicroService Controller
