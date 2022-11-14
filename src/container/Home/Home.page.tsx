@@ -10,7 +10,7 @@ const Home: FC<IProps> = () => {
       <div className="container flex flex-col items-center px-4 pt-20 pb-12 mx-auto">
         <Image src={MICRO_SERVICE} alt="micro-service" className="w-40 h-40" />
         <h2 className="text-3xl mt-4 font-bold tracking-tight text-gray-600 dark:text-white">
-          MicroService Controller
+          MicroFrontend Controller
         </h2>
 
         <p className="block max-w-2xl mt-4 text-base text-gray-500 dark:text-gray-300">
