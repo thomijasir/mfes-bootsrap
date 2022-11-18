@@ -1,3 +1,9 @@
 [submodule "mfes-gohike"]
 	path = modules/mfes-gohike
 	url = git@github.com:thomijasir/mfes-gohike.git
+[submodule "mfes-goauth"]
+	path = modules/mfes-goauth
+	url = git@github.com:thomijasir/mfes-goauth.git
+[submodule "mfes-gobike"]
+	path = modules/mfes-gobike
+	url = git@github.com:thomijasir/mfes-gobike.git
