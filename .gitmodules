@@ -1,0 +1,3 @@
+[submodule "mfes-gohike"]
+	path = modules/mfes-gohike
+	url = git@github.com:thomijasir/mfes-gohike.git
